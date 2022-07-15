@@ -13,13 +13,7 @@ The repository contains solution for candystore assignment. It fetches input dat
 
 ### Dependencies
 
-The program is built on go 1.8.3 version. It uses a few third party go libraries which can be installed as below
-
-```
-go get github.com/sirupsen/logrus
-go get github.com/spf13/viper
-go get github.com/PuerkitoBio/goquery
-```
+The program is built on go 1.8.3 version. 
 
 ### How to build <a name = "build"></a>
 
